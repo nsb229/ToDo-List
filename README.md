@@ -2,8 +2,13 @@
 
 <img width="1469" alt="Screen Shot 2023-08-05 at 1 21 51 PM" src="https://github.com/nsb229/ToDo-List/assets/126029768/c88ed583-4db1-4e48-b61d-a0b27270ac7a">
 
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## To View the App
+Click [ToDo-List](https://nsb229.github.io/ToDo-List/) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
 ## Available Scripts
 
@@ -12,12 +17,6 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-
-Click [here](https://nsb229.github.io/ToDo-List/) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
