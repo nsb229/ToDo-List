@@ -4,7 +4,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## To View the App
+## To View App
 Click [ToDo-List](https://nsb229.github.io/ToDo-List/) to view it in your browser.
 
 The page will reload when you make changes.\
